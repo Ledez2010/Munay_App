@@ -1,0 +1,7 @@
+name,email,password,role,classCode,age,gender
+Juan Pérez,juan.perez@escuela.com,password123,student,CLS001,15,masculino
+María García,maria.garcia@escuela.com,password123,student,CLS001,14,femenino
+Carlos López,carlos.lopez@escuela.com,password123,student,CLS002,16,masculino
+Ana Martínez,ana.martinez@escuela.com,password123,student,CLS002,15,femenino
+Profesor Demo,profe@escuela.com,profe123,teacher,,,masculino
+
